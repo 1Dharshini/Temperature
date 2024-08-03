@@ -1,0 +1,23 @@
+body {
+    justify-content: center;
+    font-size: 2em; 
+    font-family: Arial, sans-serif;
+    color: rgb(26, 1, 26);
+    text-align: center;
+    background-color: rgb(142, 202, 142);
+}
+
+input, button {
+    margin: 10px;
+    background-color: rgb(228, 224, 167);
+    color: black;
+    font-weight: bolder;
+    font-size: 1em; 
+    width: 200px;  /* Set the width to a medium size */
+    height: 50px;  /* Set the height to a medium size */
+}
+
+p {
+    margin-right: 276px;
+    font-size: 2em; /* Keeps the font size big as requested */
+}
